@@ -30,3 +30,6 @@
 .poster:hover{
     transform: scale(1.01);
 }
+.smallposter:hover{
+    transform: scale(1.09);
+}
